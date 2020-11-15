@@ -23,7 +23,7 @@
 
 ## Versão
 1.0.0.0
-## Authors
+## Author
 * **José carlos (https://github.com/zecarloz)
 ###  Siga o github e junte-se a nós!
 #### Obrigado por me visitar e boa codificação!
