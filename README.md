@@ -1,7 +1,7 @@
 # crudPizzaria .
 
 ![Logo of the project](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQONrxZ1IPrJ3rwZzvIEAXWAI5QeZ6U0scwlg&usqp=CAU)
-## Sistema de Pizzaria com tela login
+## Sistema de Pizzaria
 
 ## Technologias usadas
 
