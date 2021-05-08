@@ -9,5 +9,7 @@
 
 ## ng s para subir o servidor da aplicação
 
+## ng s -o para abrir no Browser
+
 ### Vejam mais de meus projetos em : https://github.com/zecarloz
 ###### Licença padrão MIT
