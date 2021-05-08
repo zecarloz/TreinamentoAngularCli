@@ -7,5 +7,7 @@
 
 ## code . (abre o visual studio code)
 
+## ng s para subir o servidor da aplicação
+
 ### Vejam mais de meus projetos em : https://github.com/zecarloz
 ###### Licença padrão MIT
