@@ -9,7 +9,7 @@
 
 ## ng s para subir o servidor da aplicação
 
-## ng s -o para abrir no Browser.
+## ng s -o para abrir no Browser
 
 ### Alguns projetos estão em desenvolvimento , se quiser colaborar sinta-se a vontade
 
