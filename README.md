@@ -3,7 +3,7 @@
 
 ### Este treinamento tem como finalidade adquirir conhecimento profundo sobre o framework Angular/cli.
 ### Para rodar o projeto execute os comandos :
-## npm i para instalar as dependencias
+## npm i para instalar as dependencias.
 
 ## code . (abre o visual studio code)
 
