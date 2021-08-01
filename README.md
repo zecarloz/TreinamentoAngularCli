@@ -11,7 +11,7 @@
 
 ## ng s -o para abrir no Browser
 
-### Alguns projetos estão em desenvolvimento , se quiser colaborar sinta-se a vontade
+### Alguns projetos estão em desenvolvimento , se quiser colaborar sinta-se a vontade.
 
 ### Vejam mais de meus projetos em : https://github.com/zecarloz
 ###### Licença padrão MIT
